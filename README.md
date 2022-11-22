@@ -1,4 +1,4 @@
-# How to use JS Gamepad API and Build a Gamepad Tester - Shorter Version
+# How to use JS Gamepad API and Build a Gamepad Tester - Just the controller
 
 [<img src="cover.png" width="50%" >](https://youtube.com/c/codingwithadam)
 
